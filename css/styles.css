@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(204, 239, 248);
+    margin: 0;
+    text-align: center;
+    /* border:solid; */
+}
+
+h1{
+    margin: 0;
+}
+
+
+/* ################### Class selector ######### */
+.topContainer{
+    background-color: rgb(182, 248, 239);
+    position: relative;
+    padding: 100px;
+}
+.middleContainer{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+
+.bottomContainer{
+    background-color: rgb(55, 0, 255);
+    height: 200px;
+    width: 200px;
+}
+
+.topCloud{
+    position:absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottomCloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
