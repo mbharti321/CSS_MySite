@@ -2,11 +2,20 @@ body{
     background-color: rgb(204, 239, 248);
     margin: 0;
     text-align: center;
-    /* border:solid; */
+    font-family: 'Merriweather', serif;
+
 }
 
 h1{
     margin: 0;
+    font-size: 5rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    
+}
+h2,h3{
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -17,15 +26,11 @@ h1{
     padding: 100px;
 }
 .middleContainer{
-    background-color: red;
-    height: 200px;
-    width: 200px;
+  
 }
 
 .bottomContainer{
-    background-color: rgb(55, 0, 255);
-    height: 200px;
-    width: 200px;
+    
 }
 
 .topCloud{
