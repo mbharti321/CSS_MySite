@@ -32,9 +32,10 @@ a{
     margin: 10px;
     text-decoration: none;
 }
-a:hover{
+.bottom-container a:hover{
     color:#ffffff;
 }
+
 p{
     line-height: 2;
 }
