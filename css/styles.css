@@ -95,7 +95,7 @@ hr{
     background-color: #caf8f8;
     border-radius: 10px;
     /* border: 5px 0 solid gray ; */
-    margin: 10px 0;
+    margin: 10px auto;
 }
 .skill-row img{
     width: 25%;    
