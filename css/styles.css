@@ -93,9 +93,10 @@ hr{
     margin: 100px  auto;
     text-align: left;
     background-color: #caf8f8;
-    border-radius: 10px;
+    border-radius: 1rem;
     /* border: 5px 0 solid gray ; */
-    margin: 10px auto;
+    margin: 1rem auto;
+    padding: 2rem;
 }
 .skill-row img{
     width: 25%;    
