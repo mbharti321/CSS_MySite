@@ -62,6 +62,9 @@ hr{
 .middle-container{
   margin: 100px 0;
 }
+.middle-container2{
+    margin: 30px 0;
+  }
 .bottom-container{
     background-color: #41e7d1;
     padding: 30px 0 10px;
