@@ -50,6 +50,19 @@ products = [
       "This Professional Blues Harmonica has exquisite workmanship, beautiful appearance, accurate tone and responsive.This blues harmonica can be played with guitars, violins, flutes and more musical instrument.",
     ],
   },
+  {
+    id: 4,
+    name: "SYGA Thumb Piano Kalimba 21-Tone Keys Finger Piano Kalingba Musical Instrument Retro Dream Deer Gifts for Kids and Adults, Handguard-Brown",
+    affiliateLink: "https://amzn.to/3M4ochw",
+    img: "https://m.media-amazon.com/images/I/61uj5PpwguL._SL1000_.jpg",
+    descriptions: [
+      "This kalimba produces a clean and vivid sound; perfect for kids and beginners",
+      "Have fun learning how to play songs on it to learn about making melodies",
+      "It is a musical instrument thats lightweight and can be taken anywhere",
+      "Music can soothe people's tired mood and make us calm or happy. A thumb piano brings more than just the enjoyment of music, but also your yearning for auditory art.",
+      "Package Contents: 1*17 Keys Kalimba 1*Tuning Hammer 1*Flannelette Bag 2*Finger Covers 1*Cleaning Cloth 1*Instruction Book 1* Thumb Piano Key Color Stickers",
+    ],
+  },
 ];
 
 export default products;
