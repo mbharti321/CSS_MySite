@@ -63,6 +63,19 @@ products = [
       "Package Contents: 1*17 Keys Kalimba 1*Tuning Hammer 1*Flannelette Bag 2*Finger Covers 1*Cleaning Cloth 1*Instruction Book 1* Thumb Piano Key Color Stickers",
     ],
   },
+  {
+    id: 5,
+    name: "realme Buds 2 Wired in Ear Earphones with Mic (Black)",
+    affiliateLink: "https://amzn.to/3elflvg",
+    img: "https://m.media-amazon.com/images/I/61I84V9RcSL._SL1500_.jpg",
+    descriptions: [
+      "Enjoy the powerful 11.2mm bass boost driver which consist of multi-layer composite diaphragm, bringing you a deep and powerful, yet accurate bass response.",
+      "The inline remote features three tactile buttons and a mic, so you can control your music and videos, incoming calls, and even summon your voice assistant directly at the touch of a button.",
+      "A premium, reinforced braided jacket, and two evenly grooved TPU cables make for a design that is robust and durable.",
+      "Realme buds 2 features built-in magnets and a cable strap which are designed to provide the ultimate solution for neatly storing your earphones.",
+      "Impedance: 32Ω, Rated Power: 3mW, Sound Pressure Level: 106dB",
+    ],
+  },
 ];
 
 export default products;
